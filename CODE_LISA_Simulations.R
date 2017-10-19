@@ -7,7 +7,7 @@
 # lack of a clear null distribution, population heterogeneity, multiple testing issues, 
 # fixed neighborhood sizes and spatial correlation of test statistics.
 
-# The code is mainly completel, but still needs to apply Tango's (2000) correction 
+# The code is mainly complete, but still needs to apply Tango's (2000) correction 
 # multiple testing for Moran's I in the LISA context.
 
 # INPUTS: Data file of regional rates and coordinate data for each corresponding region
