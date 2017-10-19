@@ -7,7 +7,7 @@
 # lack of a clear null distribution, population heterogeneity, multiple testing issues, 
 # fixed neighborhood sizes and spatial correlation of test statistics.
 
-# The code is mainly completely, but still needs to apply Tango's (2000) correction 
+# The code is mainly completel, but still needs to apply Tango's (2000) correction 
 # multiple testing for Moran's I in the LISA context.
 
 # INPUTS: Data file of regional rates and coordinate data for each corresponding region
@@ -18,8 +18,8 @@
 
 # References: 
 # Jackson MC, Huang L, Xie Q, Tiwari RC. (2010). 
-# A modified version of Moran’s I. International Journal of Health Geography, 9:33.
-# Anselin, L. (1995). Local indicators of spatial association – LISA. 
+# A modified version of Moranâ€™s I. International Journal of Health Geography, 9:33.
+# Anselin, L. (1995). Local indicators of spatial association â€“ LISA. 
 # Geographical Analysis, 27, 93-115.
 
 ##################################################################
